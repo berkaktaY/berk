@@ -1,0 +1,44 @@
+/* Başlıkları Altı Çizgili Ve Eğik olsun */
+h1{
+    color: crimson;
+    text-decoration: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    text-align: center;
+    
+}
+
+h2{
+    color: firebrick;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    text-decoration: underline;
+}
+h5{
+    text-decoration: underline;
+}
+
+/* body kısmı biraz renkli olsun */
+
+body{
+    background-color: darkgray;
+}
+/* liste şeklinde olanlar için kalın ve eğik yazılar olsun */
+
+ul{
+    font-family: monospace;
+    font-style: italic;
+    font-size: large;
+}
+
+ol{
+    font-family: monospace;
+    font-style: italic;
+    font-size: large;
+}
+
+/* paragraf kısmı biraz kalın olsun */
+p{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
