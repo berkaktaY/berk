@@ -1,0 +1,61 @@
+.box{
+    margin-left: 545px;
+    margin-top: 50px;   
+}
+
+.aramakutusu{
+    text-align: center;
+    background-color:rgb(235, 234, 234);
+    width: auto ;
+    height: 45px;
+    margin-left: 65px;
+    margin-right: 65px;
+    
+}
+
+.kutu1{
+    text-align: center;
+    background-color: aqua;
+    float: left;
+    margin-left: 50px;
+    width: 400px;
+    height: 170px;
+}
+
+.box2{
+    text-align: center;
+    text-decoration:black;
+    background-color:aliceblue;
+    border-radius:100px;
+    border-style:ridge;
+    margin-left:325px;
+    margin-right:175px;
+    float:left;
+   
+}
+
+.float{
+    float:left ;
+    text-align: center;
+    text-decoration: black;
+    background-color: rgb(190, 189, 189);
+    border-radius: 25px;
+    border-style: ridge;
+    margin-left: 130px;
+    
+}
+.font{
+    float: right;
+    text-align: center;
+    text-decoration:underline;
+    margin-right: 130px;
+    
+}
+ .flooter{
+    text-align: center;
+    margin: 10px;
+    text-decoration: double;
+ }
+
+
+ 
